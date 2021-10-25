@@ -50,7 +50,7 @@ cd <project directory>
 ```
 git clone https://github.com/Siham2000/Breaking-Bad.git
 ```
-3.install
+3.Install
 ```
 npm i
 
